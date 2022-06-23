@@ -1,0 +1,13 @@
+COMANDOS GIT BASH
+
+==================================================================================
+
+mkdir [nome da pasta] -- cria uma pasta
+cd [nome da pasta] -- entra na pasta
+ls -- lista arquivos da pasta
+git clone [link do reporsitório] -- clona um reporsitório
+git status -- verifica o status do reporsitório
+git add -A -- adiciona todos os arquivos novos
+git commit -m [mensagem] -- cria um commit atualizado
+git init -- Inicia o reporsitório
+git push origin main -- empurra o reporsitório local para o servidor GitHub
